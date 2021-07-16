@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ee-globalchange-gee4geo",
+  "private_key_id": "a089baf03cb1a752b5a7095d04fecd8e6195f4d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaFGOgavtSmdvk\nbNZInqzoJZredoiBe1fwfg4VHLEoEZrcUfcno8sqJ4ttLCBsk8RNKZIJKr/fmPJk\n+1ZOfIeLncmqNyo564EKfzvxI/4QK9rOU5fJq4qqF6GD2F5qOExry4+GvvntDqkV\nyJiAlVE/iXXLZ/eMvNhIr2ZSRVdtLY2Pohy2okLDMdfzk7aJOfJpEzhRukRhnqpi\nBn8vWyAItol+wWUZSG9icCG3KtVu+elW2OWfQE0VDJBM4CqGjFoPu0WEycWWdbQY\nrwDiT8NTl1o+mWWwozYNdpDK6UxWZkmz06OPz8to8WabWIIIZZatZ3knvAgTMLdh\n1kdCRxC9AgMBAAECggEABrCa8MSkW95FT2IwXZ/SFxRG6KDR5XlTBKScfOstf/Vf\nuXAvoH96mz5zTc6sK7qwu77x0ccS5KTx5VOKWEcM5ZF4x5S0lyY0CJ4knqA28EHP\nMsUrYny5vQ/gmeZjlw4Rt15zwWB6XoIT8leu02poSC9yN14wv+IVK/a9pRXQqXNP\nHT67eqsZoY6Xio9IbP7RxoLVetkexC2silGJnBSvy0nwWuL02wt8x8MQ8LKjLmB7\n4Q/Cce+RmCO4pqvx0MTmVHsy4gs9fyzYlnRH8tWeSdf4mi/a1H2rBaGa4zYQGg8O\neckivFuZbt/XuhnZMCOH7u3thrDJ9rFuaj/AhTyBoQKBgQDQme14fj7PgeCrIl+b\nSOXnNpuiWlJzQ265UgvIroiOMbqeD2OvyvHGfKDJ6I2/tzFA618wDN4YLZjzWuYf\no6i6nAx9XqG/INWHzWXo1kHyMqWNHq2FkufURX9m/p9zyPt81DBg64COs2AcQnrS\nWqS1NhNVlUU24bvDzQBw2ihwUQKBgQC9FwHQCv5BfU4EdBqaK0yNWV4ryhks/fCK\nXb+cfgHEt9WrwR4gAZxx0NEIv2b7FiTZwy4ug6w/GLmUuRByA4cVUaC22odAUMxp\ntto4BRNWu4dgKTEabarfNm7ctpDkMS/p/fJLR3qTK2Ykbmf74bCAFLFZLnud0ulQ\nRpgkI5AKrQKBgHYDr6KsobJaAxYuozJCArdVYKVwPhcxvjGgJkSJ4X24yqBjin1I\n7pHhrkGsjI07AeV9g+O2U+wP1+lNssWRnIK+iB5hbFaqJ8Plw1L/7F0upBR7l6Xr\nH7cq/lHxmZoyyXysuxYKBjg1aRlzzvK1D1vp1PRlN7w95zF2CFrQQXKRAoGAdh8l\nNr1nT6njTszowV5DGBm3xksdpwmLdiRSSoQ8vpLIm96r3vqirEbyDjDjN/8BTjer\nZctDkrbzV4C0UUT64cp4R0IEM51F1NQxRcWF6yyCyQNydTwE/iOW5bH2mVZQxC+r\naHNikwUNbby6oJLAG4LRtxBekJzsuwUejZTZqpECgYEAnED4GY/6IiFIOC+9wj/Y\nOREyHtLnIRdSMMG1J6kQt7tYHKq5T9zh6RCKhwYVEtgt0zIIlGev1g8uuohlWpXw\neIN6wggRdgtoGHWh+bt74jbYWr5hYz16bb+xP4xTeQF8dpWXlZf0s86zuLCsSWUA\ndrQBsqn4FYQe997gif9MRec=\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-engine-default-service-672@ee-globalchange-gee4geo.iam.gserviceaccount.com",
+  "client_id": "101195153479643560867",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-engine-default-service-672%40ee-globalchange-gee4geo.iam.gserviceaccount.com"
+}
